@@ -2,11 +2,10 @@
 
 // DONT CHANGE THIS
 /*==========> INFO 
- * CODE     : BY ZLAXTERT
+ * CODE     : BY KingWar
  * SCRIPT   : PAYPAL ACCOUNT CHECKER
  * VERSION  : 1.5
- * TELEGRAM : t.me/zlaxtert
- * BY       : DARKXCODE
+ * BY       : KingWar
  */
 
 require_once "function/function.php";
