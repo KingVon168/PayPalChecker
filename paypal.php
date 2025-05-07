@@ -5,8 +5,7 @@
  * CODE     : BY ZLAXTERT
  * SCRIPT   : PAYPAL ACCOUNT CHECKER
  * VERSION  : 1.5
- * TELEGRAM : t.me/zlaxtert
- * BY       : DARKXCODE
+ * BY       : DARKWAR
  */
 
 require_once "function/function.php";
